@@ -6,3 +6,7 @@ It expects code to be in `KoboldAI` subfolder
 
 1. `clone https://github.com/KoboldAI/KoboldAI-Client.git KoboldAI`
 2. `install.bat`
+
+## KoboldAI server
+
+Use `play.bat` to launch server
