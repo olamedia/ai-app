@@ -9,5 +9,5 @@ Use `start.bat`, it will create python's virtual environment and launch webui in
 
 ## Requirements
 
-* Python to create virtual environment
+* Python 3.10(.6+) to create virtual environment
 * CUDA 11.7 for NVIDIA GPU
